@@ -14,3 +14,6 @@ An AI-powered prototype that transforms a project idea into a deployable softwar
 
 ## Status
 Mock / Prototype version for hackathon demonstration.
+
+## How to run 
+streamlit run app.py
